@@ -1,5 +1,5 @@
 # About Me:
-I am studying computer science with the hopes of leaning new things while <br>building software that is both reliable and convenient for users.
+Hello! I’m Starlin, I am currently pursuing a degree in Computer Science at New Jersey Institute of Technology.  With a passion for technology and innovation, I am eager to connect with professionals in the field and explore new opportunities that will help shape my career.  As I delve deeper into the world of software development, I am focused on honing my skills and gaining practical experience that will prepare me for a future as a full-time software engineer.  My ambition is to create software solutions that enhance convenience and improve the quality of life in our society.
 
 
 ## Socials:
